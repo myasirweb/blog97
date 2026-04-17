@@ -44,9 +44,9 @@ Before you begin, ensure you have met the following requirements:
 
 2. Install project dependencies:
 
-   ```bash
+   ````bash
    npm install
-   ```
+   ````
 
 3. Create a .env.local file in the root of your project and add the necessary environment variables. You can refer to the .env.example file for guidance.
 
